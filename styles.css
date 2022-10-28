@@ -9,7 +9,7 @@
 .words {
     color: #55CDFC;
     size: 30px; 
-    margin-top: 10%;
+    margin-top: 5%;
     margin-left: 10%;
     margin-right: 30%;
 }
@@ -27,4 +27,10 @@ a:visited {
 a:hover {
 	color: hotpink;
 	text-decoration: underline;
+}
+
+img {
+    padding: 5px; 
+    max-width: 70%;
+    height: auto;
 }
