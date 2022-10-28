@@ -1,9 +1,30 @@
 .app {
    color: #F7A8B8;
-   size: 24px; 
+   size: 30px; 
+   margin-top: 10%;
+   margin-left: 10%;
+   margin-right: 30%;
 }
 
 .words {
     color: #55CDFC;
-    size: 24px; 
+    size: 30px; 
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 30%;
+}
+
+a:link {
+	color: #FFFFFF;
+	text-decoration: none;
+}
+
+a:visited {
+	color: #55CDFC;
+	text-decoration: none;
+}
+
+a:hover {
+	color: hotpink;
+	text-decoration: underline;
 }
