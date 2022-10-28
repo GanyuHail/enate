@@ -1,3 +1,9 @@
 .app {
-   color: pink;
+   color: #F7A8B8;
+   size: 24px; 
+}
+
+.words {
+    color: #55CDFC;
+    size: 24px; 
 }
